@@ -1,17 +1,7 @@
 # Sulpak Data Analytics Project
 
-![Sulpak Logo](https://example.com/sulpak-logo.png)  
 **Data analytics project** focused on extracting, analyzing, and visualizing product data from the **Sulpak.kz** website.
 
-## 🚀 Table of Contents
-- [Project Description](#project-description)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [How to Run](#how-to-run)
-- [Data Sources](#data-sources)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 📖 Project Description
 
@@ -38,16 +28,7 @@ The project helps to analyze e-commerce product behavior, spot pricing trends, a
 - **Scikit-learn**: For applying machine learning algorithms (e.g., regression, classification).
 - **Squarify**: For generating treemaps to visualize product categories.
 
-## ⚡ Setup
 
-### Prerequisites
-
-- **Python 3.x** installed on your machine.
-- **Git** for version control.
-
-### Installation Steps
-
-1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/your-username/sulpak-data-analytics.git
